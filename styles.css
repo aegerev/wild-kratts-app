@@ -1,5 +1,5 @@
 .gradient-background {
-    background: linear-gradient(300deg, #32CD32, #3232CD);
+    background: linear-gradient(300deg, #238E23, #3232CD);
     background-size: 180% 180%;
     animation: gradient-animation 15s ease infinite;
 }
@@ -33,6 +33,6 @@
   }
 
   p{
-    color: #DBDB70;
+    color: #CFB538;
   }
 
