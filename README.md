@@ -13,3 +13,4 @@ Apple, the Apple logo, Apple TV, iPad, iPhone, iTunes, App Store, and Mac are tr
 Google Play, the Google Play symbol, et al., are trademarks of Google Inc., registered in the United States and other countries and regions. Copyright © 2024 Google Inc. All rights reserved.
 
 ## Deployment:
+https://aegerev.github.io/wild-kratts-app/
